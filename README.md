@@ -93,6 +93,6 @@ Develop targeted win-back offers for cancelled customers, particularly those who
 
 ## Author
 
-**Afolabi S. Adedeji**
+**Samuel A. Adedeji**
 
 Data Analytics Portfolio Project
